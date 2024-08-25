@@ -27,9 +27,9 @@ Este repositório contém exemplos de como implementar uma "inteligência de má
 ## Função de Avaliação
 
 ### •	A função de avaliação atribui valores a cada estado do tabuleiro:
-### o	Vitória da máquina: pontuação máxima.
-### o	Derrota da máquina: pontuação mínima.
-### o	Movimentos intermediários: pontuações que refletem oportunidades futuras ou bloqueios ao adversário.
+###    o	Vitória da máquina: pontuação máxima.
+###    o	Derrota da máquina: pontuação mínima.
+###    o	Movimentos intermediários: pontuações que refletem oportunidades futuras ou bloqueios ao adversário.
 
 ## Exploração e Seleção do Melhor Movimento
 
