@@ -2,8 +2,8 @@ Implementação de Inteligência Artificial para Jogos Clássicos
 
 Este repositório contém exemplos de como implementar uma "inteligência de máquina" em diferentes jogos clássicos, utilizando técnicas de análise de padrões e o algoritmo Minimax.
 
-1. Jogo do Par ou Ímpar
-Estratégia de Máquina
+#1. Jogo do Par ou Ímpar
+##Estratégia de Máquina
 
 •	Aleatoriedade Inicial: A máquina pode começar escolhendo números aleatórios.
 •	Análise de Padrões: Com o tempo, a máquina pode detectar padrões nas escolhas do adversário e adaptar sua estratégia.
